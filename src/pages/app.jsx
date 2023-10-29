@@ -8,7 +8,7 @@ export default function AppPage() {
   return (
     <>
       <Helmet>
-        <title> Appointment Management </title>
+        <title> Appointment Management ADMIN</title>
       </Helmet>
 
       <AppView />
